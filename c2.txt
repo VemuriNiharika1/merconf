@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The c2 file is added in main
+=======
+HELLO BEC DEVOPS LAB
+>>>>>>> fb
